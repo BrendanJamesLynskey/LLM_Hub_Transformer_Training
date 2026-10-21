@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Transformer Training
 
 How a decoder-only transformer is pretrained, end to end: the loop and the loss, data and tokens, backpropagation, optimisers, learning rate and batch size, initialisation and normalisation, stability, mixed precision, memory, data and model parallelism, training over slow links, scaling laws and running a real job, with a bridge to fine-tuning.
